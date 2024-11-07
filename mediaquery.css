@@ -24,6 +24,9 @@
     img {
       max-width: 100%;
       height: auto;
+      margin: auto;
+      display: block
+      ;
     }
   
     /* Ajuste no bloco de mapa e fachada */
